@@ -37,9 +37,14 @@ plug-in as `INSTALL.txt`.
 
 ## Feedback
 
-In the DustSol window, File > Export Feedback... saves small crops around the
-marks and your keep/remove choices to a folder you pick. Nothing is sent
-automatically. Issues and feedback: open an issue in this repository.
+Sign up on the [website](https://dustsol.pages.dev) to get the download, the
+feedback form and the address for questions and bug reports. The same address
+is in `INSTALL.txt` inside the plug-in.
+
+To show the marks DustSol got wrong, choose File > Export Feedback... in the
+DustSol window. It saves small crops around the marks and your keep/remove
+choices to a folder you pick; zip it and email it to us. Nothing is sent
+automatically. You can also open an issue in this repository.
 
 ## Credits
 
